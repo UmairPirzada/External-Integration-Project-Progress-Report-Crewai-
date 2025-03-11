@@ -17,10 +17,6 @@
 
 ## Overview
 This project leverages the [Crewai framework](https://pypi.org/project/crewai/) to generate comprehensive progress reports by integrating external data from Trello. 
-
-![image](https://github.com/user-attachments/assets/b1ac69cd-c368-4487-85f8-5d975dd05ef7)
-
-
 The solution is designed to automatically collect project data, analyze it for blockers and delays, and generate a detailed sprint report that includes:
 - Sprint Overview
 - Task Summary
@@ -81,6 +77,9 @@ OPENAI_API_KEY=your_openai_api_key_here
 ```
 ## Trello Integration:
 - Ensure your Trello API settings are correctly configured if your project requires access to a Trello board.
+
+  ![Uploading image.png…]()
+
 
  ## Usage
 - **Interactive Development:**
