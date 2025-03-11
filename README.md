@@ -56,7 +56,7 @@ The solution is designed to automatically collect project data, analyze it for b
 ## Installation
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/External-Integration-Project-Progress-Report-Crewai.git
+   git clone https://github.com/UmairPirzada/External-Integration-Project-Progress-Report-Crewai-.git
    cd External-Integration-Project-Progress-Report-Crewai
 
 2. **Set Up a Virtual Environment:**
